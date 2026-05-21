@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @herogx
 - 👀 I’m interested in C++/C#/LabVIEW
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & AI
 - 💞️ I’m looking to collaborate on C++/C#/LabVIEW project
 - 📫 How to reach me 347433396@qq.com
 
